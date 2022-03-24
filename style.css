@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family:'roboto',sans-serif
+}
+
+ul {
+    padding: 0px;
+    margin: 0x;
+    list-style-type: none;
+    display: flex;
+    gap: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-link-list {
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+}
+
+.section1-0 {
+    display: flex;
+}
+
+.section1-1 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
