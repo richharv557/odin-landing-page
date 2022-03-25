@@ -133,7 +133,8 @@ h2 {
 
 .quote-source {
     font-weight: bold;
-    align-self:flex-end
+    align-self:flex-end;
+    font-size: 24px;
 }
 
 .section4{
@@ -169,4 +170,12 @@ h2 {
     background-color: #3882f6;
     height: 30px;
     align-self: center;
+}
+
+.footer{
+    color: #F9FAF8;
+    background-color: #1F2937;
+    display:flex;
+    justify-content: center;
+    padding: 50px
 }
